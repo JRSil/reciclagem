@@ -1,0 +1,286 @@
+body {
+  color: #e8e7e7 !important; }
+
+h3 {
+  text-align: center; }
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center; }
+
+.container-fluid.bg {
+  background: url(../images/bg-reciclagem.jpg);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-color: #2a1b14;
+  margin-top: 100px;
+  padding-top: 100px;
+  padding-bottom: 250px; }
+
+section.logo h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 45px;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 40px; }
+  section.logo h1 span {
+    font-family: 'Montserrat', sans-serif;
+    display: block;
+    font-weight: 400; }
+
+section.middle p:first-child {
+  font-size: 15px; }
+  section.middle p:first-child span {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700; }
+section.middle h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  text-align: center;
+  font-size: 20px; }
+  section.middle h2 img {
+    display: inline-block; }
+section.middle h3 {
+  font-size: 28px; }
+section.middle h3.pt-coleta {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  color: #e1e93d; }
+
+section.bottom {
+  margin-top: 50px; }
+  section.bottom h3 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    text-align: left;
+    display: block;
+    width: 100%;
+    padding-bottom: 5px;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+    border-bottom: 2px solid #e1e93d; }
+    section.bottom h3:hover {
+      color: #F3BC40; }
+      section.bottom h3:hover .arrow svg path {
+        fill: #F3BC40; }
+    @media (max-width: 1200px) {
+      section.bottom h3 {
+        padding: 0px; } }
+    @media (max-width: 991px) {
+      section.bottom h3 {
+        text-align: center; } }
+    section.bottom h3 .arrow {
+      width: 20px;
+      height: 20px;
+      background-size: cover;
+      display: inline-block;
+      float: right; }
+      section.bottom h3 .arrow svg {
+        width: 20px;
+        height: 20px;
+        transition: all 0.5s ease-in-out; }
+        section.bottom h3 .arrow svg path {
+          transition: all 0.5s ease-in-out; }
+    section.bottom h3.active {
+      color: #F3BC40; }
+      section.bottom h3.active .arrow svg {
+        transform: rotate(180deg); }
+        section.bottom h3.active .arrow svg path {
+          fill: #F3BC40; }
+  section.bottom .item_locaiton {
+    min-height: 140px; }
+  section.bottom .tittle_location {
+    width: 100%;
+    text-align: left;
+    margin-top: 25px;
+    margin-bottom: 0px;
+    font-size: 20px;
+    text-transform: uppercase; }
+    @media (max-width: 1200px) {
+      section.bottom .tittle_location {
+        padding: 0px; } }
+    @media (max-width: 991px) {
+      section.bottom .tittle_location {
+        text-align: center; } }
+  section.bottom #select-regiao {
+    background: none;
+    color: #fff;
+    border: none;
+    margin: 0 auto;
+    width: 420px;
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 28px;
+    outline: none;
+    margin-bottom: 40px;
+    padding: 10px 10px 10px 0px;
+    border-bottom: 2px solid #e1e93d; }
+    @media (max-width: 600px) {
+      section.bottom #select-regiao {
+        width: 280px;
+        font-size: 16px; } }
+    section.bottom #select-regiao option {
+      background: #2b1b0e;
+      color: #FFF;
+      font-size: 16px;
+      padding: 3px;
+      margin-top: 10px; }
+  section.bottom #end-list {
+    margin-bottom: 30px; }
+  section.bottom #select-regiao:focus {
+    outline: none; }
+  section.bottom .end_location {
+    text-align: left; }
+  section.bottom .link_location {
+    color: #e1e93d;
+    text-decoration: underline; }
+  section.bottom .end {
+    margin-bottom: 30px; }
+    section.bottom .end .loja p {
+      text-align: left;
+      padding-left: 27px;
+      margin-top: 15px; }
+      @media screen and (max-width: 991px) {
+        section.bottom .end .loja p {
+          text-align: center;
+          padding-left: 0;
+          margin-top: 25px; } }
+    section.bottom .end .local p {
+      text-align: left;
+      margin-top: 15px;
+      padding-right: 26px; }
+      @media screen and (max-width: 991px) {
+        section.bottom .end .local p {
+          text-align: center;
+          padding-right: 0;
+          margin-bottom: 25px; } }
+
+section.coleta {
+  margin-top: 30px; }
+  section.coleta .container .box-coleta {
+    width: 100%;
+    background: #49311e;
+    border: 2px solid #fff;
+    padding: 30px 25px;
+    text-align: center; }
+    section.coleta .container .box-coleta h3 {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 29px;
+      font-weight: 700;
+      color: #e1e93d;
+      margin-top: 0; }
+    section.coleta .container .box-coleta a.btn {
+      background: #e1e93d;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 18px;
+      color: #240b00;
+      font-weight: 600;
+      padding: 10px 50px;
+      border: 1px solid #e1e93d;
+      border-radius: 0px; }
+
+.pg-coleta ::-webkit-input-placeholder {
+  color: #fff; }
+.pg-coleta :-moz-placeholder {
+  /* Firefox 18- */
+  color: #fff; }
+.pg-coleta ::-moz-placeholder {
+  /* Firefox 19+ */
+  color: #fff; }
+.pg-coleta :-ms-input-placeholder {
+  color: #fff; }
+.pg-coleta h1, .pg-coleta h2, .pg-coleta h3 {
+  font-family: 'Montserrat', sans-serif; }
+.pg-coleta section.logo h1 {
+  font-size: 58px;
+  margin-bottom: 10px; }
+.pg-coleta section.logo h3 {
+  color: #e1e93d;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 10px; }
+.pg-coleta section.logo img {
+  margin: 30px auto; }
+.pg-coleta section.middle .titulo {
+  font-size: 22px;
+  color: #e1e93d;
+  font-weight: 700; }
+.pg-coleta section.middle .col-md-2 .col-sm-12 {
+  height: 120px;
+  margin: 20px auto; }
+.pg-coleta section.form-agendamento h3 {
+  font-size: 41px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 80px; }
+.pg-coleta section.form-agendamento form.col-md-6 {
+  margin: 60px auto 0;
+  float: none; }
+  .pg-coleta section.form-agendamento form.col-md-6 .form-group {
+    float: none;
+    margin-bottom: 30px; }
+    .pg-coleta section.form-agendamento form.col-md-6 .form-group label, .pg-coleta section.form-agendamento form.col-md-6 .form-group .formulario {
+      font-family: 'Montserrat', sans-serif;
+      color: #fff;
+      font-weight: 400; }
+    .pg-coleta section.form-agendamento form.col-md-6 .form-group label {
+      display: none;
+      font-size: 16px; }
+    .pg-coleta section.form-agendamento form.col-md-6 .form-group .formulario {
+      display: block;
+      width: 100%;
+      height: 34px;
+      font-size: 19px;
+      line-height: 1.42857143;
+      background-color: transparent;
+      border: 0px solid;
+      border-bottom: 2px solid #fff;
+      transition: border-bottom ease-in-out .15s; }
+      .pg-coleta section.form-agendamento form.col-md-6 .form-group .formulario:focus {
+        border: 0px solid;
+        border-bottom: 2px solid #e1e93d;
+        outline-color: transparent; }
+    .pg-coleta section.form-agendamento form.col-md-6 .form-group #cidade option {
+      background: #2b1b0e;
+      color: #FFF;
+      font-size: 16px;
+      padding: 3px;
+      margin-top: 10px; }
+  .pg-coleta section.form-agendamento form.col-md-6 div.col-md-6 {
+    float: left; }
+  .pg-coleta section.form-agendamento form.col-md-6 div.box-btn {
+    display: inline-block;
+    margin: 50px 25%;
+    float: none; }
+    .pg-coleta section.form-agendamento form.col-md-6 div.box-btn button.btn-agenda {
+      width: 100%;
+      height: 45px;
+      color: #fff;
+      background: transparent;
+      border: 2px solid #e1e93d; }
+.pg-coleta section.form-agendamento #mensagem {
+  display: none;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  text-align: center;
+  margin: 20px auto 0;
+  padding: 15px;
+  float: none; }
+.pg-coleta section.form-agendamento .sucesso {
+  background: rgba(225, 235, 34, 0.1);
+  border: 1px solid #e1e93d; }
+.pg-coleta section.form-agendamento .erro {
+  background: rgba(255, 0, 0, 0.1);
+  border: 1px solid #e20000; }
+.pg-coleta section.bottom .col-md-10 {
+  margin: 0 auto;
+  float: none; }
+  .pg-coleta section.bottom .col-md-10 img {
+    margin: 50px auto; }
+
+/*# sourceMappingURL=style.css.map */

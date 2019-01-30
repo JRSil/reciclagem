@@ -1,0 +1,254 @@
+[
+    {
+      "pev": "3corações - Ipiranga",
+      "end": "Av. Nazaré, 1139 – Ipiranga, Piso Térreo, São Paulo – SP, 02071-012",
+      "horario": "Segunda a sexta: Das 8h às 18h",
+      "tipo": "",
+      "regiao": "São Paulo",
+      "link": "https://www.google.com.br/maps/place/Av.+Nazar%C3%A9,+1139+-+Ipiranga,+S%C3%A3o+Paulo+-+SP/@-23.5942143,-46.6118455,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5beba918fbb9:0x1d5a7e8d24fa65e3!8m2!3d-23.5942143!4d-46.6096568",
+      "status": "Ativado"
+    },
+    {
+        "pev": "Emporium São Paulo - Afonso Braz",
+        "end": "Rua Afonso Braz, 431 - Vila Nova Conceição, São Paulo - SP, 04511-011",
+        "horario": "Segunda a sábado: Das 7h às 22h",
+        "tipo": "",
+        "regiao": "São Paulo",
+        "link": "https://goo.gl/yAu7xp",
+        "status": "Ativado"
+    },
+    {
+        "pev": "Emporium São Paulo - Itaim Bibi",
+        "end": "R. Pedroso Alvarenga, 803 - Itaim Bibi, São Paulo - SP, 03178-200",
+        "horario": "Segunda a sábado: Das 7h às 22h",
+        "tipo": "",
+        "regiao": "São Paulo",
+        "link": "https://goo.gl/W1GroQ",
+        "status": "Ativado"
+    },
+    {
+        "pev": "Emporium São Paulo - Moema",
+        "end": "Av. Jurema, 271 - Moema, São Paulo - SP, 04079-001",
+        "horario": "Segunda a sábado: Das 7h às 22h",
+        "tipo": "",
+        "regiao": "São Paulo",
+        "link": "https://goo.gl/dz6oDi",
+        "status": "Ativado"
+    },
+    {
+        "pev": "FNAC Pinheiros",
+        "end": "Praça dos Omaguás, 34 - Pinheiros, São Paulo - SP, 05419-020",
+        "horario": "Segunda a sábado: Das 10h às 21h, Domingo: Das 11h às 20h",
+        "tipo": "",
+        "regiao": "São Paulo",
+        "link": "https://goo.gl/jcucVU",
+        "status": "Ativado"
+    },
+    {
+        "pev": "HIROTA - Santa Cecília",
+        "end": "Av. Gen. Olímpio da Silveira, 39 - Santa Cecilia, São Paulo - SP, 01150-001",
+        "horario": "Segunda a sábado: Das 8h às 21h",
+        "tipo": "",
+        "regiao": "São Paulo",
+        "link": "https://goo.gl/JRfUF4",
+        "status": "Ativado"
+    },
+    {
+        "pev": "HIROTA - Mooca",
+        "end": "R. Teresina, 319 - Vila Bertioga, São Paulo - SP, 03185-010",
+        "horario": "Segunda a sábado: Das 8h às 21h",
+        "tipo": "",
+        "regiao": "São Paulo",
+        "link": "https://goo.gl/JRfUF4",
+        "status": "Ativado"
+    },
+    {
+        "pev": "HIROTA - Ipiranga",
+        "end": "Av. Nazaré, 1299 - Ipiranga, São Paulo - SP, 04263-000",
+        "horario": "Segunda a sábado: Das 8h às 21h",
+        "tipo": "",
+        "regiao": "São Paulo",
+        "link": "https://goo.gl/bMgnw1",
+        "status": "Ativado"
+    },
+    {
+        "pev": "HIROTA - Vila Monumento",
+        "end": "Rua Gaspar Fernandes, 452 - Vila Monumento, São Paulo - SP, 01549-000",
+        "horario": "Segunda a sábado: Das 8h às 21h",
+        "tipo": "",
+        "regiao": "São Paulo",
+        "link": "https://goo.gl/cnt2eh",
+        "status": "Ativado"
+    },
+    {
+        "pev": "HIROTA - Saúde",
+        "end": "Av. Jabaquara, 1920 - Saúde, São Paulo - SP, 14750-000",
+        "horario": "Segunda a sábado: Das 8h às 21h",
+        "tipo": "",
+        "regiao": "São Paulo",
+        "link": "https://goo.gl/xeeVzp",
+        "status": "Ativado"
+    },
+    {
+        "pev": "Preço &amp; Cia - Vila Esperança",
+        "end": "R. Maria Carlota, 577 - Vila Esperança, São Paulo - SP",
+        "horario": "Segunda a sábado: Das 8h às 20h, Domingo e feriados: Das 8h às 13h",
+        "tipo": "",
+        "regiao": "São Paulo",
+        "link": "https://goo.gl/3uHXFu",
+        "status": "Ativado"
+    },
+    {
+        "pev": "Preço &amp; Cia - Tatuapé",
+        "end": "R. Tuiuti, 904 - Tatuapé, São Paulo - SP",
+        "horario": "Segunda a sábado: Das 8h às 20h, Domingo e feriados: Das 8h às 13h",
+        "tipo": "",
+        "regiao": "São Paulo",
+        "link": "https://goo.gl/tqgY8A",
+        "status": "Ativado"
+    },
+    {
+        "pev": "Enel - Reserva Open Mall",
+        "end": "Avenida Washington Soares, 3000 – Engenheiro Luciano Cavalcante, Fortaleza – CE, 60810-350",
+        "horario": "Segunda a domingo: Das 7h às 22h",
+        "tipo": "",
+        "regiao": "Ceará",
+        "link": "https://goo.gl/BqBVLf",
+        "status": "Ativado"
+    },
+    {
+        "pev": "Enel - Rio Mar",
+        "end": "Rua Desembargador Lauro Nogueira, 1500 – Papicu, Fortaleza – CE, 60175-055",
+        "horario": "Segunda a domingo: Das 7h às 22h",
+        "tipo": "",
+        "regiao": "Ceará",
+        "link": "https://goo.gl/NJb2nt",
+        "status": "Ativado"
+    },
+    {
+        "pev": "São Luiz - Alphaville",
+        "end": "Avenida Litorânea, 2010 - Cararu, Fortaleza – CE",
+        "horario": "Segunda a sábado: Das 7h às 21h, Domingo a feriados: Das 7h às 19h",
+        "tipo": "",
+        "regiao": "Ceará",
+        "link": "https://goo.gl/cec31g",
+        "status": "Ativado"
+    },
+    {
+        "pev": "São Luiz - Barão de Sturdat",
+        "end": "Avenida Barão de Sturdat, 2675 - Joaquim Távora, Fortaleza – CE",
+        "horario": "Segunda a sábado: Das 7h às 21h, Domingo a feriados: Das 7h às 20h",
+        "tipo": "",
+        "regiao": "Ceará",
+        "link": "https://goo.gl/6JZ1ti",
+        "status": "Ativado"
+    },
+    {
+        "pev": "São Luiz - Benfica",
+        "end": "Avenida Carapinima, 2200 - Benfica, Fortaleza – CE",
+        "horario": "Segunda a sábado: Das 8h às 22h, Domingo a feriados: Das 8h às 21h",
+        "tipo": "",
+        "regiao": "Ceará",
+        "link": "https://goo.gl/hg2crk",
+        "status": "Ativado"
+    },
+    {
+        "pev": "São Luiz - Cambeba",
+        "end": "Avenida Whashington Soares, 6180 - Alagadiço Novo, Fortaleza – CE",
+        "horario": "Segunda a sábado: Das 7h às 22h, Domingo a feriados: Das 7h às 22h",
+        "tipo": "",
+        "regiao": "Ceará",
+        "link": "https://goo.gl/y4CVKZ",
+        "status": "Ativado"
+    },
+    {
+        "pev": "São Luiz - Cambeba",
+        "end": "Avenida Whashington Soares, 6180 - Alagadiço Novo, Fortaleza – CE",
+        "horario": "Segunda a sábado: Das 7h às 22h, Domingo a feriados: Das 7h às 22h",
+        "tipo": "",
+        "regiao": "Ceará",
+        "link": "https://goo.gl/y4CVKZ",
+        "status": "Ativado"
+    },
+    {
+        "pev": "São Luiz - Cocó",
+        "end": "Avenida Engenheiro Santana Júnior, 2977 - Cocó, Fortaleza – CE",
+        "horario": "Segunda a sábado: Das 7h às 0h, Domingo a feriados: Das 7h às 22h",
+        "tipo": "",
+        "regiao": "Ceará",
+        "link": "https://goo.gl/vbZXGk",
+        "status": "Ativado"
+    },
+    {
+        "pev": "São Luiz - Dunas",
+        "end": "Avenida Engenheiro Alberto Sá, 1111 - Dunas, Fortaleza – CE",
+        "horario": "Segunda a sábado: Das 7h às 22h, Domingo a feriados: Das 7h às 20h",
+        "tipo": "",
+        "regiao": "Ceará",
+        "link": "https://goo.gl/oSZmaa",
+        "status": "Ativado"
+    },
+    {
+        "pev": "São Luiz - Oliveira Paiva",
+        "end": "Rua Francisco Borges Soares, 170 - Cambeba, Fortaleza – CE, CEP: 60822-310",
+        "horario": "Segunda a sábado: Das 7h às 0h, Domingo a feriados: Das 7h às 22h",
+        "tipo": "",
+        "regiao": "Ceará",
+        "link": "https://goo.gl/SkjCpR",
+        "status": "Ativado"
+    },
+    {
+        "pev": "São Luiz - Pontes Vieira",
+        "end": "Avenida Pontes Vieira, 1486 - Dionísio Torre, Fortaleza – CE",
+        "horario": "Segunda a sábado: Das 7h às 22h, Domingo a feriados: Das 7h às 21h",
+        "tipo": "",
+        "regiao": "Ceará",
+        "link": "https://goo.gl/Q41eGe",
+        "status": "Ativado"
+    },
+    {
+        "pev": "São Luiz - Praia de Iracema",
+        "end": "Rua dos Tabajaras, 693 - Praia de Iracema, Fortaleza – CE",
+        "horario": "Segunda a sábado: Das 7h às 21h, Domingo a feriados: Das 7h às 20h",
+        "tipo": "",
+        "regiao": "Ceará",
+        "link": "https://goo.gl/JS7dGg",
+        "status": "Ativado"
+    },
+    {
+        "pev": "São Luiz - Rio Mar",
+        "end": "Rua Desembargador Lauro Nogueira, 1500 - Papicu, Fortaleza – CE, 60175-055",
+        "horario": "Segunda a sábado: Das 9h às 22h, Domingo a feriados: Das 9h às 22h",
+        "tipo": "",
+        "regiao": "Ceará",
+        "link": "https://goo.gl/LA83qW",
+        "status": "Ativado"
+    },
+    {
+        "pev": "São Luiz - Riomar Kennedy",
+        "end": "Avenida Sargento Hermínio Sampaio, 3100 - Presidente Kennedy, Fortaleza – CE",
+        "horario": "Segunda a sábado: Das 9h às 22h, Domingo a feriados: Das 9h às 22h",
+        "tipo": "",
+        "regiao": "Ceará",
+        "link": "https://goo.gl/1BVNYL",
+        "status": "Ativado"
+    },
+    {
+        "pev": "São Luiz - Santos Dumont",
+        "end": "Avenida Santos Dumont, 5625 - Papicu, Fortaleza – CE",
+        "horario": "Segunda a sábado: Das 7h às 22h, Domingo a feriados: Das 7h às 20h",
+        "tipo": "",
+        "regiao": "Ceará",
+        "link": "https://goo.gl/Cfp6jf",
+        "status": "Ativado"
+    },
+    {
+        "pev": "São Luiz - Virgílio Távora",
+        "end": "Avenida Senador Virgílio Távora, 570 - Aldeota, Fortaleza – CE",
+        "horario": "Segunda a sábado: Das 7h às 0h, Domingo a feriados: Das 7h às 20h",
+        "tipo": "",
+        "regiao": "Ceará",
+        "link": "https://goo.gl/TFD29S",
+        "status": "Ativado"
+    }
+]

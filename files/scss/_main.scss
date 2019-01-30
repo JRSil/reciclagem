@@ -1,0 +1,273 @@
+body{
+	color:#e8e7e7 !important;
+}
+
+
+h3{
+	text-align: center;
+}
+
+p{
+	font-family:'Montserrat', sans-serif;
+	text-align:center;
+}
+.container-fluid.bg{
+	background: url(../images/bg-reciclagem.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-color: #2a1b14;
+	margin-top: 100px;
+	padding-top: 100px;
+	padding-bottom:250px;
+}
+
+section.logo{
+	h1{
+		font-family:'Montserrat', sans-serif;
+		font-size:45px;
+		text-transform:uppercase;
+		text-align:center;
+		font-weight:700;
+		margin-bottom:40px;
+		span{
+			font-family:'Montserrat', sans-serif;
+			display:block;
+			font-weight:400;
+		}
+	}
+}
+
+
+section.middle{
+	p:first-child{
+		font-size:15px;
+
+		span{
+			font-family:'Montserrat', sans-serif;
+			font-weight:700;
+		}
+	}
+
+	h2{
+		font-family:'Montserrat', sans-serif;
+		font-weight:700;
+		text-align:center;
+		font-size:20px;
+
+		img{
+			display:inline-block;
+		}
+	}
+
+	h3{
+		font-size: 28px;
+	}
+
+	h3.pt-coleta{
+		font-family:'Montserrat', sans-serif;
+		font-weight: 700;
+		color: $reciclagem;
+	}
+}
+
+
+section.bottom{
+	margin-top:50px;
+	h3{
+		text-align:center;
+		font-family:'Montserrat', sans-serif;
+		font-weight:400;
+		font-size: 24px;
+		text-align: left;
+		display: block;
+		width: 100%;
+		padding-bottom: 5px;
+		cursor: pointer;
+		transition:all 0.5s ease-in-out;
+		border-bottom: 2px solid $reciclagem;
+
+		&:hover{
+			color:#F3BC40;
+			.arrow{
+				svg{
+					path{
+						fill: #F3BC40;
+					}
+				}
+			}
+		}
+
+		@media (max-width: 1200px){
+			padding: 0px;
+		}
+
+		@media (max-width: 991px){
+			text-align: center;
+		}
+
+
+
+		.arrow{
+			width: 20px;
+		    height: 20px;
+		    background-size: cover;
+			display: inline-block;
+			float: right;
+		    svg{
+		    	width: 20px;
+		    	height: 20px;
+		    	transition:all 0.5s ease-in-out;
+		    	path{
+		    		transition:all 0.5s ease-in-out;
+		    	}
+
+		    }
+		}
+
+		&.active{
+			color:#F3BC40;
+			.arrow{
+				svg{
+					transform: rotate(180deg);
+					path{
+						fill: #F3BC40;
+					}
+				}
+			}
+		}
+	}
+
+	.item_locaiton{
+		min-height: 140px;
+	}
+
+	.tittle_location{
+		width: 100%;
+		// display: block;
+		text-align: left;
+		margin-top: 25px;
+		margin-bottom: 0px;
+		//padding-left: 26px;
+		font-size: 20px;
+		text-transform: uppercase;
+
+		@media (max-width: 1200px){
+			padding: 0px;
+		}
+
+		@media (max-width: 991px){
+			text-align: center;
+		}
+	}
+
+	#select-regiao{
+		background: none;
+	    color: #fff;
+	    border: none;
+	    margin: 0 auto;
+	    width: 420px;
+	    display: block;
+	    font-family: 'Montserrat', sans-serif;
+	    text-transform: uppercase;
+	    font-weight: 400;
+	    font-size: 28px;
+	    outline: none;
+	    margin-bottom: 40px;
+	    padding: 10px 10px 10px 0px;
+	    border-bottom: 2px solid $reciclagem;
+
+	    @media (max-width: 600px){
+	    	width: 280px;
+			font-size: 16px;
+		}
+
+		option {
+			background: #2b1b0e;
+			color: #FFF;
+			font-size: 16px;
+			padding: 3px;
+			margin-top: 10px;
+		}
+	}
+
+	#end-list{
+		margin-bottom: 30px;
+	}
+
+	#select-regiao:focus{
+		outline: none;
+	}
+
+	.end_location{
+		text-align: left;
+	}
+
+	.link_location{
+	    color: #e1e93d;
+	    text-decoration: underline;
+	}
+
+	.end{
+		margin-bottom: 30px;
+	
+
+		.loja{
+			p{
+				text-align:left;
+				padding-left:27px;
+				margin-top:15px;
+
+				@media screen and (max-width:991px){
+					text-align:center;
+					padding-left:0;
+					margin-top:25px;
+				}
+			}
+		}
+
+		.local{
+			p{
+				text-align:left;
+				margin-top:15px;
+				padding-right:26px;
+
+
+				@media screen and(max-width:991px){
+					text-align:center; 
+					padding-right:0;
+					margin-bottom:25px;
+				}
+			}
+		}
+	}
+}
+
+section.coleta{
+	margin-top: 30px;
+	.container{
+		.box-coleta{
+			width: 100%;
+			background: #49311e;
+			border: 2px solid #fff;
+			padding: 30px 25px;
+			text-align: center;
+			h3{
+				font-family:'Montserrat', sans-serif;
+				font-size: 29px;
+				font-weight: 700;
+				color: $reciclagem;
+				margin-top: 0;
+			}
+			a.btn{
+				background: $reciclagem;
+				font-family: 'Montserrat', sans-serif;
+				font-size: 18px;
+				color: #240b00;
+				font-weight: 600;
+				padding: 10px 50px;
+				border: 1px solid $reciclagem;
+				border-radius: 0px;
+			}
+		}
+	}
+}
